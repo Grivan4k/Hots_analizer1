@@ -4,11 +4,8 @@
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)](https://github.com)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com)
-[![Tests](https://img.shields.io/badge/tests-95%25-green)](https://github.com)
-[![Coverage](https://img.shields.io/badge/coverage-88%25-yellowgreen)](https://github.com)
-[![Maintainability](https://img.shields.io/badge/maintainability-A-green)](https://github.com)
-[![Documentation](https://img.shields.io/badge/docs-complete-brightgreen)](docs/)
+[![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](requirements.txt)
+[![Code Style](https://img.shields.io/badge/code%20style-pep8-black)](https://www.python.org/dev/peps/pep-0008/)
 
 ## 📋 Описание
 
@@ -16,13 +13,13 @@ Player ID Manager - это консольная утилита для работ
 
 ### Основные возможности
 
-- **Прием множества ID** через аргументы командной строки
-- **Валидация формата** ID (числа или UUID)
-- **Автоматическое сохранение** в JSON или TXT файл
-- **Гибкая конфигурация** через файл `.env`
-- **Цветной вывод** с информацией о процессе (опционально)
-- **Ограничение количества** обрабатываемых ID
-- **Интеграция с внешним API** для расширенной валидации
+- ✅ **Прием множества ID** через аргументы командной строки
+- ✅ **Валидация формата** ID (числа или UUID)
+- ✅ **Автоматическое сохранение** в JSON или TXT файл
+- ✅ **Гибкая конфигурация** через файл `.env`
+- ✅ **Цветной вывод** с информацией о процессе (опционально)
+- ✅ **Ограничение количества** обрабатываемых ID
+- ✅ **Интеграция с внешним API** для расширенной валидации
 
 ## 📊 Бейджи статуса
 
